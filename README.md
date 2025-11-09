@@ -1,3 +1,6 @@
+
+## Note - This repo was forked from [ZmkCharybdis](https://github.com/Demezy/ZmkCharybdis) and RGB lighting suppor added to it.  This repo is intended to be used for Charybdis MK2 boards with wired/BT support and RGB backlighting.
+
 [![.github/workflows/build.yml](https://github.com/280Zo/charybdis-wireless-mini-zmk-firmware/actions/workflows/build.yml/badge.svg)](https://github.com/280Zo/charybdis-wireless-mini-zmk-firmware/actions/workflows/build.yml)
 
 ## Intro
