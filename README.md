@@ -1,4 +1,7 @@
-[![.github/workflows/build.yml](https://github.com/280Zo/charybdis-wireless-mini-zmk-firmware/actions/workflows/build.yml/badge.svg)](https://github.com/280Zo/charybdis-wireless-mini-zmk-firmware/actions/workflows/build.yml)
+
+Note - This repo was forked from [Demezy/ZmkCharybdis](https://github.com/Demezy/ZmkCharybdis) and had RGB lighting support added to it.  This repo is for Charybdis MK2 keyboards with wired/BT support and RGB backlighting (aliexpress/other off-brand versions).
+
+[![.github/workflows/build.yml](https://github.com/nbr0wn/ZmkCharybdisRGB/actions/workflows/build.yml/badge.svg)](https://github.com/nbr0wn/ZMKCharybdisRGB/actions/workflows/build.yml)
 
 ## Intro
 
