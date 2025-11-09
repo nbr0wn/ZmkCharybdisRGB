@@ -1,5 +1,5 @@
 
-Note - This repo was forked from [ZmkCharybdis](https://github.com/Demezy/ZmkCharybdis) and RGB lighting support added to it.  This repo is intended to be used for Charybdis MK2 boards with wired/BT support and RGB backlighting.
+Note - This repo was forked from [Demezy/ZmkCharybdis](https://github.com/Demezy/ZmkCharybdis) and had RGB lighting support added to it.  This repo is for Charybdis MK2 keyboards with wired/BT support and RGB backlighting (aliexpress/other off-brand versions).
 
 [![.github/workflows/build.yml](https://github.com/nbr0wn/ZmkCharybdisRGB/actions/workflows/build.yml/badge.svg)](https://github.com/nbr0wn/ZMKCharybdisRGB/actions/workflows/build.yml)
 
