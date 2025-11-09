@@ -11,6 +11,7 @@ features:
   - Mouse keys pointer
   - Trackball pointer
   - Dongle/Bluetooth/USB
+  - backlight
 siblings:
   - charybdis_left
   - charybdis_right
